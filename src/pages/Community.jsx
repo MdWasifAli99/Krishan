@@ -22,7 +22,9 @@ const Community = () => {
         </ul>
       </div>
       <div className="image-placeholder">
+
         <img width={1000} height={300}  src={i1} alt="Community" />
+        
       </div>
     </section>
     
